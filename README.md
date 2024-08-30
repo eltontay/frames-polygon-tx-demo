@@ -79,7 +79,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- **Dabl Club** : The space for builders to unite to create the future of Polygon. Also hosting Farcaster Fridays around the world. Follow along with us here! [Join events on Luma](https://lu.ma/DablClub). Join us on telegram here [Telegram group chat](https://t.me/dablclub) (@dablclub).
+- **Dabl Club** : The space for builders to unite to create the future of Polygon.
+  - **Farcaster Fridays**: Hosting events around the world. [Join events on Luma](https://lu.ma/DablClub)
+  - **Telegram Group**: Stay up to date by joining the [Telegram group chat](https://t.me/dablclub) (@dablclub).
+  - **Learn at Dabl Club**: [Dabl into Web3](https://learn.dabl.club) with curated courses, blogs, podcasts, and more. For noobs, experts, and everyone in between.
+  - **Grow with Dabl Club**: [We offer mentors, vouchers, & partner connects](https://dabl.club/grow) to promising projects in the ecosystem.
 - **Polygon Network**: For enabling fast and low-cost transactions.
   - **Polygon PoS**: [Visit the Polygon PoS website](https://polygon.technology/polygon-pos)
   - **MATIC to POL Migration**: The MATIC to POL migration is scheduled for September 4th. [Everything you need to know about the migration](https://polygon.technology/blog/save-the-date-matic-pol-migration-coming-september-4th-everything-you-need-to-know)
