@@ -73,6 +73,22 @@ We welcome contributions to enhance this demo. If you'd like to contribute, plea
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
+## Deployment
+
+You can deploy this project on your favorite hosting platform. If you choose to use Vercel, follow these steps:
+
+1. **Deploy the Project**: You can easily deploy this project by connecting your GitHub repository to Vercel. Once deployed, grab the URL provided by Vercel.
+
+2. **Check Your Deployment on Warpcast**: 
+   - Go to the [Warpcast developer page](https://warpcast.com/~/developers/frames).
+   - Input the Vercel link (e.g., `https://frames-polygon-tx-demo-navy.vercel.app/api`) to ensure your deployment is functioning correctly.
+
+3. **Share on Warpcast**:
+   - Go to [Warpcast](https://warpcast.com/), create a post, and include the Vercel link along with your description.
+   - Example: "4 more days till MATIC becomes POL! I have created a frame for you to either send MATIC or spread the love ❤️ [Vercel Link]".
+
+Voila! Your Frame is live and shared with the world.
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
