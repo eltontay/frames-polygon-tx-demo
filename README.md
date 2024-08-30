@@ -89,4 +89,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
   - **MATIC to POL Migration**: The MATIC to POL migration is scheduled for September 4th. [Everything you need to know about the migration](https://polygon.technology/blog/save-the-date-matic-pol-migration-coming-september-4th-everything-you-need-to-know)
 - **Frames API**: For providing the core transaction functionality. [Learn more about Frog API](https://frog.fm/)
 - **Farcaster**: For being the platform behind Frames. [Learn more about how to build Frames](https://docs.farcaster.xyz/developers/frames/)
-
+- **Authors** Mel , Elton
