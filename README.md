@@ -18,7 +18,7 @@ Ensure you have the following installed on your system:
 First, clone this repository to your local machine using Git.
 
 ```bash
-git clone https://github.com/your-username/frames-polygon-tx-demo.git
+git clone https://github.com/eltontay/frames-polygon-tx-demo.git
 cd frames-polygon-tx-demo
 ```
 
