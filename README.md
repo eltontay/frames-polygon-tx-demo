@@ -79,5 +79,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- **Frames API**: For providing the core transaction functionality.
+- **Dabl Club** : The space for builders to unite to create the future of Polygon
 - **Polygon Network**: For enabling fast and low-cost transactions.
+- **Frames API**: For providing the core transaction functionality.
