@@ -79,6 +79,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- **Dabl Club** : The space for builders to unite to create the future of Polygon
+- **Dabl Club** : The space for builders to unite to create the future of Polygon. Also hosting Farcaster Fridays around the world. Follow along with us here! [Join events on Luma](https://lu.ma/DablClub). Join us on telegram here [Telegram group chat](https://t.me/dablclub) (@dablclub).
 - **Polygon Network**: For enabling fast and low-cost transactions.
-- **Frames API**: For providing the core transaction functionality.
+  - **Polygon PoS**: [Visit the Polygon PoS website](https://polygon.technology/polygon-pos)
+  - **MATIC to POL Migration**: The MATIC to POL migration is scheduled for September 4th. [Everything you need to know about the migration](https://polygon.technology/blog/save-the-date-matic-pol-migration-coming-september-4th-everything-you-need-to-know)
+- **Frames API**: For providing the core transaction functionality. [Learn more about Frog API](https://frog.fm/)
+- **Farcaster**: For being the platform behind Frames. [Learn more about how to build Frames](https://docs.farcaster.xyz/developers/frames/)
+
